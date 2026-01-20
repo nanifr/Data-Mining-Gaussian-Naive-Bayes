@@ -1,0 +1,1 @@
+Metode yang digunakan dalam penelitian ini meliputi Exploratory Data Analysis (EDA), data preprocessing (imputasi median, normalisasi Min-Max, dan penanganan class imbalance menggunakan SMOTE), visualisasi data statistik, serta pemodelan klasifikasi menggunakan algoritma Gaussian Naive Bayes.
